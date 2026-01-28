@@ -46,64 +46,30 @@ I'm a passionate **Frontend Developer** currently expanding my skills into **Bac
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [El Pollo Loco](https://github.com/DennisDumin/el-pollo-loco) | 2D Jump & Run Game | Vanilla JS, OOP |
-| [Join](https://github.com/DennisDumin/join) | Kanban-style Task Manager | JavaScript |
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| [Portfolio](https://github.com/DennisDumin/portfolio) | My personal portfolio showcasing my projects and skills | SCSS, JavaScript | [🌐 Live](https://www.dennis-dumin.net/) |
+| [El Pollo Loco](https://github.com/DennisDumin/el-pollo-loco) | 2D Jump & Run Game | Vanilla JS, OOP | |
+| [Join](https://github.com/DennisDumin/join) | Kanban-style Task Manager | JavaScript | |
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DEIN-LINKEDIN/)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dennis-dumin.net/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-dumin-4a74b9349/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine@email.de)
+
+</div>
 
 ---
 
 <div align="center">
+  
+  **💬 I'm open to collaboration and job opportunities!**
+  
   <img src="https://komarev.com/ghpvc/?username=DennisDumin&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DennisDumin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DennisDumin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DennisDumin/DennisDumin/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/dennis-dumin-4a74b9349/?originalSubdomain=de" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
